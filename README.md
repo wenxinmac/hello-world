@@ -1,2 +1,5 @@
 # hello-world
-my first test
+
+Hi GitHub
+
+Trying my first commit.
